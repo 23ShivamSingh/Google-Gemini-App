@@ -191,12 +191,6 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 3. Include steps to reproduce the problem
 
-## 🙏 Acknowledgments
-
-- Google for the Generative AI API
-- React team for the amazing framework
-- Vite for the lightning-fast build tool
-- The open-source community for inspiration
 
 ---
 
